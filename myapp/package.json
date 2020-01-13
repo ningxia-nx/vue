@@ -14,7 +14,7 @@
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^4.13.19",
+    "mongoose": "^5.8.7",
     "morgan": "~1.9.0",
     "node-uuid": "^1.4.8",
     "node-xlsx": "^0.15.0"
